@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="origin"
+        fetch="https://github.com/" />
+    <default remote="origin"
+        revision="master" />
+    <project name="googlesamples/android-architecture" />
+    <project name="jdamcd/android-crop" />
+    <project name="saulmm/Android-Material-Examples" />
+    <project name="ymjiang/AndroidSocks5Proxy" />
+    <project name="luojiesi/android-vpn-server" />
+    <project name="chigix/ChigiProxyServer" />
+    <project name="prashantmaurice/cube" />
+    <project name="geeeeeeeeek/electronic-wechat" />
+    <project name="google/enjarify" />
+    <project name="phoeagon/gfw-vpn-droid" />
+    <project name="getlantern/lantern" />
+    <project name="hexene/LocalVPN" />
+    <project name="lgvalle/Material-Animations" />
+    <project name="google/material-design-icons" />
+    <project name="google/material-design-lite" />
+    <project name="hubwiz/mdl-lesson" />
+    <project name="PhilJay/MPAndroidChart" />
+    <project name="nm-l2tp/network-manager-l2tp" />
+    <project name="brucetoo/PickView" />
+    <project name="0x5e/RubiksCubeSolver" />
+    <project name="fengyouchao/sockslib" />
+    <project name="svg/svgo" />
+    <project name="andkulikov/Transitions-Everywhere" />
+    <project name="Soyokaze99/VPNFirewall" />
+</manifest>
+
